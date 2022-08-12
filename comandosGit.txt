@@ -23,3 +23,5 @@ git log archivo.extensión                   : muestra la historia del archivo
 git config --global user.name "Oscar Salas"	: Para cambiar el nombre de usuario de forma global de la configuracion
 git config --global user.email "oscarw8813@gmail.com"		: Para cambiar el email del usuario de forma global de la configuracion
 git show nombre_de_archivo.extension        : muestra los cambios que se hicieron en el archivo
+git commit                                  : sin mensaje nos muetra una pantalla para agregar un mensaje, salimos con ESC + SHIFT + Z + Z
+ 
